@@ -16,7 +16,7 @@ export const Hero = () => {
         <h1>{heroText}</h1>
         <img src="/logohero.png" className="w-1/3 pb-10" alt="" />
         <Link to="/login">
-          <Button />
+          <Button text="Masuk" />
         </Link>
       </div>
     </>
