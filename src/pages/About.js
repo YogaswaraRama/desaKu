@@ -12,7 +12,7 @@ export const About = (props) => {
       </Helmet>
 
       <Navbar />
-      <Hero title="About" />
+      <Hero />
       <div className="px-24 pt-36">
         <h1 className="text-4xl pb-5 font-bold">
           Tentang <span className="text-[#29b2ff]">Kami</span>
