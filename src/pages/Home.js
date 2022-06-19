@@ -13,7 +13,8 @@ export const Home = (props) => {
         <title>Home</title>
       </Helmet>
       <Navbar />
-      <Hero />
+      <Hero title="Welcome to" />
+
       <Features />
       <Statistic />
       <Footer />
