@@ -23,7 +23,7 @@ export const Login = () => {
             <a href="https://www.google.com" className="text-right text-sm">
               Lupa Password?
             </a>
-            <Button />
+            <Button text="Masuk" />
           </form>
         </div>
       </div>
